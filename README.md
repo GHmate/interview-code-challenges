@@ -1,5 +1,5 @@
 # Interview Code Challenges
-Here you will find some different code challenges options for interviewing at One Beyond.
+Here you will find some different code challenges options.
 
 ## .NET code tests
 1. [.net Engineer - Library API functionality](/.NET/library/README.md#net-engineer-challenge)
